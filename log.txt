@@ -59,4 +59,3 @@ BookInStock
 
 Finished in 0.00513 seconds (files took 0.08396 seconds to load)
 12 examples, 0 failures
-
